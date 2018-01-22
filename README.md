@@ -1,6 +1,6 @@
 # ToyDL-Library
 This is was the library I wrote when I was in my last year of undergrad as a way of studying Deep Learning. The most common models (Multi Layer Perceptron, RBMs, Autoencoders. DBN and some Recurrent Networks).
 
-There are exampels for all of them using the MNIST dataset.
+There are exampels for all of them using the MNIST dataset. (I couldn't download more datasets to test do to Internet access constraints)
 
-Note: The code hasn't been mantained in a lot of time and suffers from code rot. I really don't know what works and what doesn't.
+Note: The code hasn't been mantained in a lot of time and suffers from code rot. I really don't know what works and what doesn't. This is the reason I haven't tested it with more data.
